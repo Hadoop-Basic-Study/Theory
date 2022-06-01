@@ -6,7 +6,7 @@
 
 # 구조
 
-![Untitled](03 스쿱_Sqoop/Untitled.png)
+![Untitled](./03 스쿱_Sqoop/Untitled.png)
 
 - 관계형 DB를 읽고 하둡 분산 처리 시스템으로 전달한다.
 - import 는  DB → HDFS
