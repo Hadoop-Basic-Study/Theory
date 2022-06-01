@@ -5,7 +5,7 @@
     - 수집 데이터 :  대용량 로그 데이터
     - 기본 구성
         
-        ![Untitled](./01 플롬_Flume/Untitled.png)
+        ![Untitled](./01%20%ED%94%8C%EB%A1%AC_Flume/Untitled.png)
         
     - 에이전트 : 데이터를 수집하여 컬렉터에 전달
     - 컬렉터 :  에이전트가 보낸 데이터를 취합하여 데이터를 저장
@@ -14,7 +14,7 @@
     - 기본적인 모든 노드는 source와 sink로 구성
         - 노드 구성
             
-            ![Untitled](./01 플롬_Flume/Untitled1.png)
+            ![Untitled](./01%20%ED%94%8C%EB%A1%AC_Flume/Untitled%201.png)
             
         - source는 어디서 데이터를 수집하는지에 대한 것
         - channel은 데이터를 큐 형태로 쌓아둔다.
